@@ -11,7 +11,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
+- [Author](https://github.com/krishna-vasudev/frontendmentorstatspagelayout#%EF%B8%8Fauthor)
 - [License](#license)
 
 
@@ -33,8 +33,8 @@ Mobile view:<br>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-layout-using-css-flexbox-BZcC_dRho)
+- Live Site URL: [Add live site URL here](https://krishna-vasudev.github.io/frontendmentorstatspagelayout/)
 
 ## My process
 
